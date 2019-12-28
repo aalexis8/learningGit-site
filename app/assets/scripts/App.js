@@ -1,1 +1,3 @@
-alert('Hello, this is a webpack test.');
+alert(
+  'Hello, this is a webpack test. With watch set to true, do you still need liveserver'
+);
